@@ -1,6 +1,6 @@
 Hi there, I'm Akram Sharif 👋
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-url-here/">
-<img align="left" width="200" height="200" src="https://www.google.com/search?q=https://i.imgur.com/TsoB4d2.png" alt="Akram Sharif's Profile Picture">
+<a href="https://www.linkedin.com/in/your-linkedin-url-here/">
+<img align="left" width="200" height="200" src="https://i.imgur.com/TsoB4d2.png" alt="Akram Sharif's Profile Picture">
 </a>
 
 I'm a recent Computer Science graduate from George Mason University with a passion for building robust applications and exploring the practical applications of Artificial Intelligence. I enjoy tackling complex problems and turning innovative ideas into reality through code.
@@ -52,8 +52,8 @@ Developer Tools & Databases:
 
 🌐 Connect with Me
 <p align="left">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-url-here/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/your-linkedin-url-here/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:your.email@example.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
