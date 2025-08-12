@@ -1,4 +1,8 @@
+<div align="center">
+  
 # Hi 👋 I'm Akram Sharif
+
+</div>
 
 ---
 
@@ -46,3 +50,4 @@ I am a recent computer science graduate from George Mason University, passionate
 ![Microsoft Azure](https://img.shields.io/badge/MICROSOFT%20AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Drools](https://img.shields.io/badge/DROOLS-F04E3E?style=for-the-badge&logoColor=white)
+
