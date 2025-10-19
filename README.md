@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi 👋 I'm Akram Sharif
+# Hi 👋 I'm Akram Shariff
 
 </div>
 
